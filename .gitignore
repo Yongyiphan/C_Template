@@ -1,0 +1,10 @@
+#Ignore build generated directories
+/bin
+/.tmp
+
+#Ignore vs files
+/.vs
+
+#Project filters
+*.vcxproj.user
+*.vcxproj.filters
